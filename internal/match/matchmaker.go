@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
-	"github.com/yourname/matchmaker-lite/internal/store"
-	"github.com/yourname/matchmaker-lite/internal/ws"
-	"github.com/yourname/matchmaker-lite/pkg/types"
+	"github.com/JackHo12/game_server_demo01/internal/store"
+	"github.com/JackHo12/game_server_demo01/internal/ws"
+	"github.com/JackHo12/game_server_demo01/pkg/types"
 )
 
 // Simple 5v5 matcher: tries to find 10 players within widening MMR tolerance.

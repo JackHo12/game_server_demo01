@@ -1,4 +1,4 @@
-module github.com/yourname/matchmaker-lite
+module github.com/JackHo12/game_server_demo01
 
 go 1.22
 

@@ -9,11 +9,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/yourname/matchmaker-lite/internal/api"
-	"github.com/yourname/matchmaker-lite/internal/metrics"
-	"github.com/yourname/matchmaker-lite/internal/match"
-	"github.com/yourname/matchmaker-lite/internal/store"
-	"github.com/yourname/matchmaker-lite/internal/ws"
+	"github.com/JackHo12/game_server_demo01/internal/api"
+	"github.com/JackHo12/game_server_demo01/internal/metrics"
+	"github.com/JackHo12/game_server_demo01/internal/match"
+	"github.com/JackHo12/game_server_demo01/internal/store"
+	"github.com/JackHo12/game_server_demo01/internal/ws"
 )
 
 func main() {

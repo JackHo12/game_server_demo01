@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/gorilla/websocket"
-	"github.com/yourname/matchmaker-lite/pkg/types"
+	"github.com/JackHo12/game_server_demo01/pkg/types"
 )
 
 type Hub struct {

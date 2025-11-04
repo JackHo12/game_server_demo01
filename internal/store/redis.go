@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/redis/go-redis/v9"
-	"github.com/yourname/matchmaker-lite/pkg/types"
+	"github.com/JackHo12/game_server_demo01/pkg/types"
 )
 
 type Store interface {
